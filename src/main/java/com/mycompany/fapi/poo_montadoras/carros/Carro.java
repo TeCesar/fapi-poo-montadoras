@@ -1,6 +1,6 @@
 package com.mycompany.fapi.poo_montadoras.carros;
 
-public class Carro {
+public abstract class Carro {
     protected int numPortas;
     protected int numPneus;
     protected int numRodas;
